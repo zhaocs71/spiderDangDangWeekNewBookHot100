@@ -1,4 +1,4 @@
-# spiderdangdang7dayNewBookHot100
+# spiderDangDangWeekNewBookHot100
 当当网爬起7日内前100新书热销
 如当当网页面改版会影响结果。
 当当网新书热销榜每页20本，所以100本书分5页爬取下来，分别保存在页数对应的文本文件中。
